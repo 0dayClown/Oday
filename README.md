@@ -79,9 +79,9 @@ I'm building my skills through practical work. This section can feature your rep
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| **Network Traffic Analysis Lab** | Analysing DNS, TCP, HTTPS, and handshake behaviour with packet captures | Learning / lab work |
-| **Security Automation Toolkit** | Small scripts to simplify repeatable security and system-administration tasks | Planned / evolving |
-| **Cloud Security & Incident Response** | Exploring cloud monitoring, security alerts, and response automation | Research / project idea |
+| **Network Traffic Analysis Lab** | Analysing DNS, TCP, HTTPS, and handshake behaviour with packet captures | Completed |
+| **Security Automation Toolkit** | Small scripts to simplify repeatable security and system-administration tasks | evolving |
+| **Cloud Security & Incident Response** | Exploring cloud monitoring, security alerts, and response automation | Research  |
 
 > Replace these examples with links to your actual repositories when you publish them. Keep the status accurate and only list work you have started or completed.
 
