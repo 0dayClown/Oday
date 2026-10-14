@@ -98,17 +98,26 @@ I'm building my skills through practical work. This section can feature your rep
 
 ## 🤝 Let's Connect
 
-I'm happy to connect with fellow students, security researchers, developers, and people who enjoy learning by building. Feel free to explore my repositories or open a discussion about a project.
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-  <!-- Add LinkedIn or a professional email badge here if you'd like to share them publicly. -->
-</p>
+## 🤝 Let's Connect
 
 <div align="center">
 
-### `echo "Stay curious. Think critically. Secure responsibly."`
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="YOUR_LINKEDIN_PROFILE_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123B5D,100:0B1020&height=100&section=footer" alt="Footer banner" width="100%" />
+<br/><br/>
+
+**Let's connect, collaborate, and build something impactful! 🚀**
 
 </div>
