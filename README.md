@@ -108,7 +108,7 @@ I'm building my skills through practical work. This section can feature your rep
 
 <br/><br/>
 
-**Let's connect, collaborate, and build something impactful! 🚀**
+ Let's connect, collaborate, and build something impactful!
 
 </div>
 
