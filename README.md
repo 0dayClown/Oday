@@ -1,12 +1,9 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:123B5D,100:00D9FF&height=220&section=header&text=ALHAGIE%20YERO%20JALLOW&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Cloud%20Security%20%7C%20Red%20Team%20Learner&descSize=15&descAlignY=60" alt="Profile banner" width="100%" />
 
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Learning.+Building.+Securing.;Exploring+Red+Team+Techniques;Interested+in+Cloud+Security;Turning+Curiosity+into+Practical+Labs" alt="Typing introduction" />
-  
-<a href="https://github.com/0dayClown">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Learning.+Building.+Securing.;Exploring+Red+Team+Techniques;Interested+in+Cloud+Security;Turning+Curiosity+into+Practical+Labs" alt="Typing introduction"/>
 </a>
 
 <p>
@@ -74,7 +71,7 @@ I'm building my skills through practical work. This section can feature your rep
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| **Network Traffic Analysis Lab** | Analysing DNS, TCP, HTTPS, and handshake behaviour with packet captures | Completed |
+| **Network Traffic Analysis Lab** | Analysing DNS, TCP, HTTPS, and handshake behaviour with packet captures | Complete |
 | **Security Automation Toolkit** | Small scripts to simplify repeatable security and system-administration tasks | Evolving |
 | **Cloud Security & Incident Response** | Exploring cloud monitoring, security alerts, and response automation | Research  |
 
@@ -114,3 +111,4 @@ I'm building my skills through practical work. This section can feature your rep
 **Let's connect, collaborate, and build something impactful! 🚀**
 
 </div>
+
