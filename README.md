@@ -80,7 +80,7 @@ I'm building my skills through practical work. This section can feature your rep
 | Project | What it demonstrates | Status |
 |---|---|---|
 | **Network Traffic Analysis Lab** | Analysing DNS, TCP, HTTPS, and handshake behaviour with packet captures | Completed |
-| **Security Automation Toolkit** | Small scripts to simplify repeatable security and system-administration tasks | evolving |
+| **Security Automation Toolkit** | Small scripts to simplify repeatable security and system-administration tasks | Evolving |
 | **Cloud Security & Incident Response** | Exploring cloud monitoring, security alerts, and response automation | Research  |
 
 > Replace these examples with links to your actual repositories when you publish them. Keep the status accurate and only list work you have started or completed.
@@ -89,10 +89,10 @@ I'm building my skills through practical work. This section can feature your rep
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0dayClown&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayClown&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=0dayClown&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
 </div>
 
