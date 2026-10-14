@@ -96,8 +96,6 @@ I'm building my skills through practical work. This section can feature your rep
 
 </div>
 
-## 🤝 Let's Connect
-
 
 ## 🤝 Let's Connect
 
